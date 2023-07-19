@@ -5,4 +5,4 @@ Week 2 :- We are learning about the basic of ML and Object Detection by the mate
 
 Week 3 :- 1-Learnt the basics of Pytorch through documentation and playlist provided by the Mentors.
           
-          2- Done homework on Linear Regression.
+2- Done homework on Linear Regression.
